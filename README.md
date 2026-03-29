@@ -1,6 +1,6 @@
-# 📘 Digital Literacy Portfolio
+#  Digital Literacy Portfolio
 
-## 👤 Student Details
+##  Student Details
 
 * **Name:** Paramveer Singh
 * **Registration Number:** 25BCY10219
@@ -9,36 +9,36 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains my **Digital Literacy Portfolio** created as part of the *CSE0001 – Digital Literacy* course at VIT Bhopal University.
 
 As a *Student Digital Ambassador*, this project helped me explore essential digital skills such as creating an online presence, using collaborative tools, practising coding, communicating professionally, and understanding cyber safety.
 
-## 🧩 Task Summary
+##  Task Summary
 
-### 🔹 Task 1 – Digital Literacy Infographic
+###  Task 1 – Digital Literacy Infographic
 
 Created an infographic using Canva to explain digital literacy, safe internet practices, and useful tools for students.
 
 ---
 
-### 🔹 Task 2 – Student Digital Portfolio
+###  Task 2 – Student Digital Portfolio
 
 Set up and updated profiles on platforms like GitHub, LinkedIn, and others to build a professional online presence.
 
 ---
 
-### 🔹 Task 3 – Platforms Exploration
+###  Task 3 – Platforms Exploration
 
 * Completed a beginner coding challenge on a coding platform.
 * Created a **Digital Literacy Awareness Quiz** using Google Forms.
 
-👉 **Google Form Link:** [Paste your link here]
+ **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdZDE25pnt9U0LOxJrek23qHyvyqvYQv-xwqzfqRjPibsY05g/viewform?usp=publish-editor
 
 ---
 
-### 🔹 Task 4 – Email Etiquette
+###  Task 4 – Email Etiquette
 
 * Drafted two professional emails:
 
@@ -48,14 +48,14 @@ Set up and updated profiles on platforms like GitHub, LinkedIn, and others to bu
 
 ---
 
-### 🔹 Task 5 – Cybercrime Awareness
+###  Task 5 – Cybercrime Awareness
 
 * Developed a case study on a selected cybercrime topic.
 * Created a prevention checklist to promote safe online practices.
 
 ---
 
-## 📖 Key Learnings
+##  Key Learnings
 
 * Importance of maintaining a professional digital presence
 * Effective use of online tools for collaboration and learning
@@ -65,7 +65,7 @@ Set up and updated profiles on platforms like GitHub, LinkedIn, and others to bu
 
 ---
 
-## 📎 Tools & Platforms Used
+##  Tools & Platforms Used
 
 * Canva / Prezi
 * GitHub
@@ -75,13 +75,13 @@ Set up and updated profiles on platforms like GitHub, LinkedIn, and others to bu
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project enhanced my understanding of digital literacy and prepared me to use digital tools responsibly and effectively in my academic and professional journey.
 
 ---
 
-## 📚 References
+##  References
 
 * Canva (https://www.canva.com/)
 * GitHub (https://github.com/)
